@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "name": "Win64",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/msys64/mingw64/include",                // MSYS2 MinGW64 includes
+        "C:/vcpkg/installed/x64-windows/include"    // or vcpkg include path
+      ],
+      "compilerPath": "C:/msys64/mingw64/bin/gcc.exe",
+      "intelliSenseMode": "gcc-x64"
+    }
+  ],
+  "version": 4
+}
